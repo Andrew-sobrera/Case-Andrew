@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <pessoas>
+    <pessoa>
+      <id>2</id>
+      <nome>Dooca</nome>
+      <sobrenome>---</sobrenome>
+      <cpfCnpj>2136547895</cpfCnpj>
+      <data_nascimento>---</data_nascimento>
+      <nome_fantasia>Dooca Commerce</nome_fantasia>
+      <tipo_pessoa>Jurídica</tipo_pessoa>
+    </pessoa>
+    <pessoa>
+      <id>3</id>
+      <nome>fulano</nome>
+      <sobrenome>teste</sobrenome>
+      <cpfCnpj>21548754</cpfCnpj>
+      <data_nascimento>27/04/1998</data_nascimento>
+      <nome_fantasia>---</nome_fantasia>
+      <tipo_pessoa>Física</tipo_pessoa>
+    </pessoa>
+    <pessoa>
+      <id>4</id>
+      <nome>andrew</nome>
+      <sobrenome>sobrera</sobrenome>
+      <cpfCnpj>04989785088</cpfCnpj>
+      <data_nascimento>27/02/2001</data_nascimento>
+      <nome_fantasia>---</nome_fantasia>
+      <tipo_pessoa>Física</tipo_pessoa>
+    </pessoa>
+  </pessoas>
+</root>

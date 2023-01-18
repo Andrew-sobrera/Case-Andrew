@@ -43,8 +43,8 @@ class PessoasController extends Controller
         if ($res > 0) {
 
              // Apaga o arquivo se existir
-             if (is_file("C:\Users\Andrew\Desktop\case\case-Andrew\public\XML\pessoas.xml")) {
-                unlink("C:\Users\Andrew\Desktop\case\case-Andrew\public\XML\pessoas.xml");
+             if (is_file("case-Andrew\public\XML\pessoas.xml")) {
+                unlink("case-Andrew\public\XML\pessoas.xml");
             }
 
 
@@ -112,7 +112,7 @@ class PessoasController extends Controller
                 $dom->appendChild($root);
 
                 //salva arquivo XML no caminho indicado
-                $dom->save("C:\Users\Andrew\Desktop\case\case-Andrew\public\XML\pessoas.xml"); 
+                $dom->save("\case-Andrew\public\XML\pessoas.xml"); 
                 
         };
     }

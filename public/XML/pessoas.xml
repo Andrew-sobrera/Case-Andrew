@@ -2,15 +2,6 @@
 <root>
   <pessoas>
     <pessoa>
-      <id>2</id>
-      <nome>Dooca</nome>
-      <sobrenome>---</sobrenome>
-      <cpfCnpj>2136547895</cpfCnpj>
-      <data_nascimento>---</data_nascimento>
-      <nome_fantasia>Dooca Commerce</nome_fantasia>
-      <tipo_pessoa>Jurídica</tipo_pessoa>
-    </pessoa>
-    <pessoa>
       <id>3</id>
       <nome>fulano</nome>
       <sobrenome>teste</sobrenome>
@@ -25,6 +16,15 @@
       <sobrenome>sobrera</sobrenome>
       <cpfCnpj>04989785088</cpfCnpj>
       <data_nascimento>27/02/2001</data_nascimento>
+      <nome_fantasia>---</nome_fantasia>
+      <tipo_pessoa>Física</tipo_pessoa>
+    </pessoa>
+    <pessoa>
+      <id>5</id>
+      <nome>teste final</nome>
+      <sobrenome>final</sobrenome>
+      <cpfCnpj>205156615</cpfCnpj>
+      <data_nascimento>6251618</data_nascimento>
       <nome_fantasia>---</nome_fantasia>
       <tipo_pessoa>Física</tipo_pessoa>
     </pessoa>

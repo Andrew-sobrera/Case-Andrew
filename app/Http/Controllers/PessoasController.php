@@ -60,7 +60,7 @@ class PessoasController extends Controller
             //criando o ná principal (root)
             $root = $dom->createElement("root");
 
-            //ná filho (navios)
+            //ná filho (pessoas)
             $pessoas = $dom->createElement("pessoas");
         
 
